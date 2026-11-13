@@ -1,0 +1,2 @@
+# Este projeto utiliza apenas bibliotecas nativas do Python 3 (json, os, datetime, pathlib).
+# Nenhuma dependência externa é necessária.
