@@ -44,7 +44,7 @@ O **Sistema de Gestão de Coleta de Recicláveis** foi desenvolvido para organiz
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/SEU-USUARIO/sistema-gestao-reciclaveis.git
+   git clone https://github.com/vitorjazz-lang/Projeto-Integrador-Controle-de-Coleta-de-Reciclaveis
    cd sistema-gestao-reciclaveis
    ```
 
