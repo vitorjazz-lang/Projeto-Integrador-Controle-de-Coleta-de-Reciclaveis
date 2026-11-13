@@ -18,14 +18,6 @@ O **Sistema de Gestão de Coleta de Recicláveis** foi desenvolvido para organiz
 
 ---
 
-## 📸 Demonstração
-
-> *(Dica: Tire um print do menu e dos relatórios no terminal, salve como `preview.png` dentro da pasta `assets/` e a imagem aparecerá aqui!)*
-
-![Execução no Terminal](assets/preview.png)
-
----
-
 ## 🛠️ Tecnologias e Conceitos Aplicados
 
 * **Python 3.x** (Biblioteca Padrão: `json`, `os`, `datetime`, `pathlib`)
